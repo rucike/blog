@@ -69,7 +69,7 @@ return [
     |
     */
 
-    'timezone' => 'Europe/Vilnius',
+    'timezone' => 'date_default_timezone_get()',
 
     /*
     |--------------------------------------------------------------------------
